@@ -1,6 +1,6 @@
 # Adding-Sunglasses-to-Your-Passport-Photo-Using-OpenCV-Completion-requirements
-## Name: khamalraaj S
-# Regno: 212224230122
+### Name: khamalraaj S
+### Regno: 212224230122
 ## Aim
 
 To design a system that digitally places sunglasses onto a human face image using image processing techniques.
